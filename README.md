@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1e91ed&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Victor+Felisberto;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## 👋 Sobre mim
-- Sou o Victor, tenho 21 anos e sou de Franca - SP.
+- Sou o Victor, tenho 22 anos e sou de Franca - SP.
 - Estudo Desenvolvimento FULL STACK no Cruzeiro do Sul.
 
 ### 📚 Estudando no momento:

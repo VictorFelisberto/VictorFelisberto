@@ -4,7 +4,7 @@
 
 ## 👋 Sobre mim
 - Sou o Victor, tenho 22 anos e sou de Franca - SP.
-- Estudo Desenvolvimento FULL STACK no Cruzeiro do Sul.
+- Desenvolvedor FULL STACK em formação
 
 ### 📚 Estudando no momento:
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&logoColor=F7DF1E)&nbsp;
